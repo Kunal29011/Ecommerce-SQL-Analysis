@@ -76,3 +76,11 @@ This project demonstrates how SQL and MySQL can be used to analyze e-commerce da
 The analysis covers customer spending, product performance, category sales, city-level sales, order status, and average order value.
 
 The project strengthened practical skills in SQL querying, data aggregation, joins, CTEs, and window functions.
+## 💡 Key Business Insights
+
+- Identified the highest-spending customers using aggregation and ranking.
+- Analyzed product-level sales performance using SUM() and GROUP BY.
+- Compared sales performance across product categories.
+- Analyzed sales by city to identify high-performing locations.
+- Examined order status to understand completed and pending orders.
+- Calculated average order value to understand customer purchasing behavior.
