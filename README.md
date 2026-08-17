@@ -49,4 +49,24 @@ Ecommerce-SQL-Analysis/
 ├── 13_product_sales_quantity.sql
 ├── 14_customer_spending_rank.sql
 └── 15_high_value_customers.sql
-       
+    ## 🧠 SQL Concepts Used
+
+- SELECT
+- WHERE
+- JOIN
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- COUNT()
+- SUM()
+- ROUND()
+- DISTINCT
+- Common Table Expressions (CTEs)
+- Window Functions
+- RANK()
+- Foreign Keys   
+## 🎯 Conclusion
+
+This project demonstrates how SQL and MySQL can be used to analyze e-commerce data and generate meaningful business insights. The analysis covers sales performance, customer spending, product performance, order status, category performance, and city-level sales.
+
+The project helped strengthen practical skills in SQL querying, data aggregation, joins, CTEs, and window functions.
