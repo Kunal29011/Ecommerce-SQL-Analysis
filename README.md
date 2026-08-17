@@ -70,3 +70,35 @@ Ecommerce-SQL-Analysis/
 This project demonstrates how SQL and MySQL can be used to analyze e-commerce data and generate meaningful business insights. The analysis covers sales performance, customer spending, product performance, order status, category performance, and city-level sales.
 
 The project helped strengthen practical skills in SQL querying, data aggregation, joins, CTEs, and window functions.
+## 📊 Key Business Insights
+
+- Electronics generated the highest sales among the analyzed categories.
+- Pune generated the highest total sales among the analyzed cities.
+- Kunal Mhaske was the highest-spending customer in the dataset.
+- Delivered orders were the most common order status.
+- iPhone 15 was the top-selling product by quantity.
+- The average order value was approximately ₹27,374.
+- Customer spending was analyzed using SQL aggregation and ranking functions.
+
+## 🧠 SQL Concepts Used
+
+- SELECT
+- JOIN
+- GROUP BY
+- ORDER BY
+- COUNT()
+- SUM()
+- ROUND()
+- DISTINCT
+- Common Table Expressions (CTEs)
+- Window Functions
+- RANK()
+- Foreign Keys
+
+## 🎯 Conclusion
+
+This project demonstrates how SQL and MySQL can be used to analyze e-commerce data and generate meaningful business insights.
+
+The analysis covers customer spending, product performance, category sales, city-level sales, order status, and average order value.
+
+The project strengthened practical skills in SQL querying, data aggregation, joins, CTEs, and window functions.
